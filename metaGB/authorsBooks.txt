@@ -1,0 +1,142 @@
+William Wymark Jacobs@97
+George Alfred Henty@89
+R M Ballantyne@88
+Nathaniel Hawthorne@85
+William Dean Howells@84
+Robert Louis Stevenson@79
+Henry James@72
+Anthony Trollope@69
+Charles Dickens@61
+Andrew Lang@60
+Charlotte Mary Yonge@60
+Edward Stratemeyer@58
+Bret Harte@57
+Sir Arthur Conan Doyle@57
+Edward Phillips Oppenheim@53
+Henry Rider Haggard@52
+Herbert George Wells@50
+Jack London@48
+Jacob Abbott@47
+Mark Twain@45
+Charles Kingsley@44
+Thomas Henry Huxley@44
+Harold Bindloss@43
+George Bernard Shaw@42
+John Ruskin@42
+Lyman Frank Baum@42
+Rudyard Kipling@42
+John Galsworthy@40
+G K Chesterton@39
+Daniel Defoe@38
+James Fenimore Cooper@36
+P G Wodehouse@35
+Sir Walter Scott@35
+Joseph Conrad@34
+Louisa May Alcott@34
+Thomas Carlyle@32
+Frank Richard Stockton@31
+Thornton Waldo Burgess@31
+Wilkie Collins@31
+Jerome Klapka Jerome@30
+William Makepeace Thackeray@30
+John Morley@28
+James Otis@27
+Oscar Wilde@27
+Thomas Hardy@26
+Zane Grey@26
+Edgar Rice Burroughs@25
+William Butler Yeats@25
+James Matthew Barrie@23
+Hamlin Garland@22
+Charles Darwin@20
+D H Lawrence@19
+Grant Allen@19
+Ambrose Bierce@17
+Benjamin Disraeli@17
+Lucy Maud Montgomery@17
+Rafael Sabatini@17
+Washington Irving@17
+Baronness Orczy@16
+Edmund Burke@15
+Herman Melville@15
+Jonathan Swift@15
+Stephen Leacock@15
+O Henry@14
+George Eliot@13
+John Dryden@13
+Lewis Carroll@13
+William Henry Hudson@13
+William Somerset Maugham@13
+Winston Churchill@13
+Abraham Lincoln@12
+Harriet Elizabeth Beecher Stowe@12
+Lord Byron@12
+Howard Pyle@11
+James Russell Lowell@11
+Samuel Taylor Coleridge@11
+Sir Richard Francis Burton@11
+Edgar Allan Poe@10
+John Stuart Mill@10
+Philip Kindred Dick@10
+Walter de la Mare@10
+Henry David Thoreau@9
+Lord Tennyson@9
+William Wordsworth@9
+Bertrand Russell@8
+Jane Austen@8
+John Bunyan@8
+William J Long@8
+Hector Hugh Munro@7
+John Milton@7
+Ralph Waldo Emerson@7
+Robert Browning@7
+Sinclair Lewis@7
+Alexander Pope@6
+Beatrix Potter@6
+Bram Stoker@6
+Elizabeth Barrett Browning@6
+P B Shelley@6
+Walt Whitman@6
+Alfred Russel Wallace@5
+John Keats@5
+Mary Shelley@5
+Richard Brinsley Sheridan@5
+Sir William Schwenck Gilbert@5
+T S Eliot@5
+Benjamin Franklin@4
+Charlotte Bronte@4
+Eugene O_Neill@4
+Herbert Spencer@4
+James Joyce@4
+Robert Southey@4
+Sir Winston Churchill@4
+Thomas Robert Malthus@4
+Virginia Woolf@4
+Aldous Huxley@3
+John Locke@3
+Leigh Hunt@3
+Robert Burns@3
+Robert Frost@3
+Sir Francis Galton@3
+Sir Isaac Newton@3
+Ulysses Grant@3
+William Blake@3
+Agatha Christie@2
+Albert Einstein@2
+Ezra Pound@2
+Mary Stewart Daggett@2
+Michael Faraday@2
+Percival Lowell@2
+William Penn@2
+Arnold Joseph Toynbee@1
+Emily Bronte@1
+George Washington@1
+Henry Francis Cary@1
+Isaac Asimov@1
+James Bowker@1
+John Maynard Keynes@1
+Robert Hooke@1
+Sir Humphry Davy@1
+Sir Joseph Dalton Hooker@1
+Thomas Crofton Croker@1
+William Ewart Gladstone@1
